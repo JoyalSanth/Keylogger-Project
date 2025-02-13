@@ -41,3 +41,10 @@ python keylogger/decrypt_logs.py
 ```sh
 python keylogger/clear_logs.py
 ```
+
+
+
+⚠️ Disclaimer
+
+This project is intended for ethical and educational use only.
+Any misuse is solely the responsibility of the user.
